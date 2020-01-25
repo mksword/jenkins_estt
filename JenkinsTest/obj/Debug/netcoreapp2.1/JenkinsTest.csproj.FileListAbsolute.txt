@@ -1,0 +1,5 @@
+C:\Users\XuYang\Source\Repos\JenkinsTest\JenkinsTest\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\XuYang\Source\Repos\JenkinsTest\JenkinsTest\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\XuYang\Source\Repos\JenkinsTest\JenkinsTest\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\XuYang\Source\Repos\JenkinsTest\JenkinsTest\obj\Debug\netcoreapp2.1\JenkinsTest.AssemblyInfoInputs.cache
+C:\Users\XuYang\Source\Repos\JenkinsTest\JenkinsTest\obj\Debug\netcoreapp2.1\JenkinsTest.AssemblyInfo.cs
